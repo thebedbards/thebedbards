@@ -159,18 +159,77 @@ p {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /*
 a {
-  color: #1EAEDB; }
-*/
-a:hover {
-  color: #47665E; }
+  color: #1EAEDB; 
+}
+
 a:link {
     text-decoration: none;
 }
+
+a:hover {
+  color: #47665E; 
+}
+
+*/
+
+a.boring:link {
+    color: #F84008;
+    text-decoration: none;
+}
+
+a.boring:active {
+    color: #F84008;
+    text-decoration: none;
+}
+
+a.boring:visited {
+    color: #F84008;
+    text-decoration: none;
+}
+
+a.boring:hover {
+    color: #4D1B01;
+    text-decoration: none;
+}
+
 a.charlotte:link {
     color: #697A51;
+    text-decoration: none;
 }
+
+a.charlotte:active {
+    color: #697A51;
+    text-decoration: none;
+}
+
+a.charlotte:visited {
+    color: #697A51;
+    text-decoration: none;
+}
+
+a.charlotte:hover {
+    color: #47665E;
+    text-decoration: none;
+}
+
 a.joe:link {
     color: #7F5E57;
+    text-decoration: none;
+}
+
+a.charlotte:active {
+    color: #7F5E57;
+    text-decoration: none;
+}
+
+a.charlotte:visited {
+    color: #7F5E57;
+    text-decoration: none;
+}
+
+a.joe:hover {
+    color: #47665E;
+    text-decoration: none;
 }
 
 
