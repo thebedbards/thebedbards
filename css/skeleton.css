@@ -161,6 +161,9 @@ a {
   color: #1EAEDB; }
 a:hover {
   color: #0FA0CE; }
+a:link {
+    text-decoration: none;
+}
 
 
 /* Buttons
