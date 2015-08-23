@@ -213,22 +213,22 @@ a.charlotte:hover {
 }
 
 a.joe:link {
-    color: #7F5E57;
+    color: #CF8997;
     text-decoration: none;
 }
 
-a.charlotte:active {
-    color: #7F5E57;
+a.joe:active {
+    color: #CF8997;
     text-decoration: none;
 }
 
-a.charlotte:visited {
-    color: #7F5E57;
+a.joe:visited {
+    color: #CF8997;
     text-decoration: none;
 }
 
 a.joe:hover {
-    color: #47665E;
+    color: #7D5D56;
     text-decoration: none;
 }
 
