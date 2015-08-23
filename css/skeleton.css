@@ -164,6 +164,12 @@ a:hover {
 a:link {
     text-decoration: none;
 }
+a.charlotte:link {
+    color: #697A51;
+}
+a.joe:link {
+    color: #7F5E57;
+}
 
 
 /* Buttons
